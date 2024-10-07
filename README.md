@@ -26,6 +26,4 @@ Welcome to my personal web portfolio! I am Hector Ginory, a full-stack web devel
 - Web security implementation
 - UX/UI design consultation
 
-## Get in Touch
-If you're looking to create a unique and powerful online presence or need help with web development services, feel free to reach out through my [contact form](#).
 
