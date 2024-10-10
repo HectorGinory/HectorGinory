@@ -1,8 +1,5 @@
 # Hector Ginory Webs - Web Developer Portfolio
 
-## Overview
-Welcome to my personal web portfolio! I am Hector Ginory, a full-stack web developer passionate about building modern, intuitive, and secure web solutions. This portfolio showcases my work, including custom websites, e-commerce solutions, and services tailored to meet client needs.
-
 ## Features
 - **Custom Web Design**: Unique, responsive, and user-friendly websites.
 - **Full-Stack Development**: Next.js, Laravel, and Angular expertise for fast and efficient applications.
